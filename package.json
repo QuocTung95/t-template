@@ -1,11 +1,26 @@
 {
-  "name": "t-template",
+  "name": "t-template-npm",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "files": [
+    "index.js"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuocTung95/t-template.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuocTung95/t-template/issues"
+  },
+  "homepage": "https://github.com/QuocTung95/t-template#readme"
 }
